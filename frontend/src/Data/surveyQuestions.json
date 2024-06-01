@@ -1,0 +1,102 @@
+{
+  "1": {
+    "question": "Did your child struggle to learn to count?",
+    "options": ["Yes-frequently", "Sometimes", "No-never"],
+    "score": [0, 2, 4]
+  },
+  "2": {
+    "question": "Does he/she say numbers out of order — long after peers have mastered this skill?",
+    "options": ["Yes-frequently", "Sometimes", "No-never"],
+    "score": [0, 2, 4]
+  },
+  "3": {
+    "question": "Does your child not seem to understand the connection between the symbol “4” and the word “four?” Does he make mistakes when reading or following directions involving number words and symbols?\"",
+    "options": ["Yes-frequently", "Sometimes", "No-never"],
+    "score": [0, 2, 4]
+  },
+  "4": {
+    "question": "Does your child struggle to connect the concept of numbers to real-world items? When you ask him how many cookies are left, for example, does he seem confused by the question or answer incorrectly?",
+    "options": ["Yes-frequently", "Sometimes", "No-never"],
+    "score": [0, 2, 4]
+  },
+  "5": {
+    "question": "Does your child not seem to understand the difference between adding and subtracting? Does she confuse the  +  and  –  symbols when completing maths problems?",
+    "options": ["Yes-frequently", "Sometimes", "No-never"],
+    "score": [0, 2, 4]
+  },
+  "6": {
+    "question": "Does your child still count on his fingers past third grade?",
+    "options": ["Yes-frequently", "Sometimes", "No-never"],
+    "score": [0, 2, 4]
+  },
+  "7": {
+    "question": "Difficulty sustaining attention; seems \"\"hyper\"\" or \"\"daydreamer\"\"",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "8": {
+    "question": "Confused by letters, numbers, words, sequences, or verbal explanations.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "9": {
+    "question": "Difficulty putting thoughts into words; speaking in halting phrases; leaves sentences incomplete.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "10": {
+    "question": "Can count, but has difficulty counting objects and dealing with money.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "11": {
+    "question": "Memory for sequences, facts and information that has not been experienced",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "12": {
+    "question": "Complains of dizziness, headaches or stomach aches while reading.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "13": {
+    "question": "Is reading extremely difficult? (Below grade or age level)",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "14": {
+    "question": "Is spelling ability poor? Letters missed, reversed etc?",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "15": {
+    "question": "Is it difficult to rhyme words?(Not sure? Play a rhyming game with your child or student).",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "16": {
+    "question": "Is there difficulty telling time on a clock with hands and/or tying shoes with laces?",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "17": {
+    "question": "Is there difficulty finding the right words while speaking? Lots of ums, ahs, 'those things', and 'that stuff'.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "18": {
+    "question": "Pauses, repeats or makes frequent mistakes when reading aloud.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "19": {
+    "question": "Unusually high or low tolerance for pain.",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  },
+  "20": {
+    "question": "Reads and rereads with little comprehension",
+    "options": ["Yes", "Unknown", "No"],
+    "score": [0, 2, 4]
+  }
+}

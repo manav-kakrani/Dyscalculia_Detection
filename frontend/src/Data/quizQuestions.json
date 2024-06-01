@@ -1,0 +1,119 @@
+{
+  "1": {
+    "question": "Check whether these two alphabets  are the same or not.",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Whattt"
+    ],
+    "images": [
+      "1.1.png",
+      "1.2.png"
+    ],
+    "answer": "Yes"
+  },
+  "2": {
+    "question": "Guess the fruit in the picture.",
+    "options": [
+      "Orange",
+      "Banana",
+      "Grapes",
+      "Mango"
+    ],
+    "images": [
+      "2.png"
+    ],
+    "answer": "Grapes"
+  },
+  "3": {
+    "question": "Check whether these two alphabets are the same or not.",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "images": [
+      "3.1.png",
+      "3.2.png"
+    ],
+    "answer": "No"
+  },
+  "4": {
+    "question": "Which letter is G?",
+    "options": [
+      "The First Letter",
+      "The Second Letter"
+    ],
+    "images": [
+      "4.1.png",
+      "4.2.png"
+    ],
+    "answer": "The First Letter"
+  },
+  "5": {
+    "question": "Which letter does this animal’s name start with?",
+    "options": [
+      "F",
+      "C",
+      "A",
+      "T"
+    ],
+    "images": [
+      "5.png"
+    ],
+    "answer": "C"
+  },
+  "6": {
+    "question": "What is the smaller version of this letter?",
+    "options": [
+      "d",
+      "b"
+    ],
+    "images": [
+      "6.png"
+    ],
+    "answer": "b"
+  },
+  "7": {
+    "question": "What do you hear?",
+    "options": [
+      "AB",
+      "ED"
+    ],
+    "voice": "What do you hear?  E D",
+    "answer": "ED"
+  },
+  "8": {
+    "question": "What do you see in the picture?",
+    "options": [
+      "GOD",
+      "DOG"
+    ],
+    "images": [
+      "8.png"
+    ],
+    "answer": "DOG"
+  },
+  "9": {
+    "question": "Which hand is left and Which hand is right?",
+    "options": [
+      "First one is right and next one is left",
+      "First one is left and next one is right"
+    ],
+    "images": [
+      "9.png"
+    ],
+    "answer": "First one is left and next one is right"
+  },
+  "10": {
+    "question": "What do you hear?",
+    "options": [
+      "cake",
+      "lake",
+      "take",
+      "fake"
+    ],
+    "voice": "What do you hear?  cake",
+    "answer": "cake"
+  }
+}
